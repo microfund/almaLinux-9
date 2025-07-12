@@ -4,6 +4,8 @@
 WSLプラグインを入れる。
 
 ## github
+https://github.com/microfund/almaLinux-9
+
 ```
 # ユーザー名を設定
 git config --global user.name "Alma User"
