@@ -13,7 +13,7 @@ git config --global user.email "alma@example.com"
 
 git config --global --list
 ```
-
+## almalinux
 sudo dnf update -y
 
 timezone
