@@ -1,7 +1,0 @@
-
-
-
-sudo dnf update -y
-
-
-
