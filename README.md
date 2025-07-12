@@ -1,5 +1,8 @@
 # AlmaLinux-9の初期設定
 
+## vscode
+WSLプラグインを入れる。
+
 ## github
 ```
 # ユーザー名を設定
